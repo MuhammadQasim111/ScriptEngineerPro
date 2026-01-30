@@ -1,0 +1,5 @@
+{
+  "name": "Script Engineer Pro",
+  "description": "A production-ready AI engineering system that converts vague human intent into safe, deterministic executable scripts with rigorous safety checks and modular design.",
+  "requestFramePermissions": []
+}
